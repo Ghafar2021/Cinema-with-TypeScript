@@ -1,4 +1,5 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="14" height="14" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="200" alt="TypeScript Logo">
+
 
 
 
